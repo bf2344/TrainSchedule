@@ -14,15 +14,16 @@
 /* <script src="https://www.gstatic.com/firebasejs/5.9.0/firebase.js"></script> */
 
   // Initialize Firebase
-//   var config = {
-//     apiKey: "AIzaSyCAf1Lgqvpx1v05fmt-ENlSlZo1Z9Jcfrc",
-//     authDomain: "trainschedule2344.firebaseapp.com",
-//     databaseURL: "https://trainschedule2344.firebaseio.com",
-//     projectId: "trainschedule2344",
-//     storageBucket: "trainschedule2344.appspot.com",
-//     messagingSenderId: "1092581547808"
-//   };
-//   firebase.initializeApp(config);
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDookgwH_5AK-NxX7i3mj403oKvYh19lb8",
+    authDomain: "trainschedule2123.firebaseapp.com",
+    databaseURL: "https://trainschedule2123.firebaseio.com",
+    projectId: "trainschedule2123",
+    storageBucket: "trainschedule2123.appspot.com",
+    messagingSenderId: "379208211387"
+  };
+  firebase.initializeApp(config);
 
 
 var database = firebase.database();
